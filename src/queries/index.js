@@ -1,0 +1,1 @@
+export { recipesQuery } from './recipesQuery'
